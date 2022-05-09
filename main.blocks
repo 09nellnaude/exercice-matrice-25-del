@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="*:g]e?v6KDqR^0g_m[u," x="20" y="20"/><block type="device_forever" id="FT.K-#vK^77Q{x_inNyn" x="225" y="20"><statement name="HANDLER"><block type="device_show_leds" id="Pc~(IYL}r#Ch,Dscl~[9"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . . . . 
+        . . # . . 
+        . # # # .
+        `</field><next><block type="device_pause" id="tMloEw*bU?347W^JWai!"><value name="pause"><shadow type="timePicker" id="6]u_n-ahSh?=ZfNs?.ar"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="yu6GV*Lswg+/OG}V3Tfw"><field name="LEDS">`
+        . . # . . 
+        . . . . . 
+        . . # . . 
+        . # # # . 
+        # . # . #
+        `</field><next><block type="device_pause" id="a0qr{4k^g`:.C%lVSlS^"><value name="pause"><shadow type="timePicker" id="Uh}=9s|}1r)R?^(]w#}E"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="Oe(hCT@rJ0jC1J?+Yp{."><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . .
+        `</field><next><block type="device_pause" id="?GHZrMx#uTuPI^6]Om4+"><value name="pause"><shadow type="timePicker" id="4)MZX;TN=+0/!gglBc@~"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="1D)s6d?d^k*#SKW`KqGE"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="HgBnY[M}T[WxBm1m`2v%"><value name="pause"><shadow type="timePicker" id="3qDk[d}Q7Hxc[~nVGw`O"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="J?q?!eCl!:ntcN?4LmwL"><field name="LEDS">`
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="V1a0YTnE,[Q(/k4D::BO"><value name="pause"><shadow type="timePicker" id="`$~RBP-wmL=+VNd^XbxK"><field name="ms">200</field></shadow></value><next><block type="device_show_leds" id="9Fu1jS?%roKaFy,.P8sb"><field name="LEDS">`
+        # . # . # 
+        . . # . . 
+        . . # . . 
+        . . . . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="Xtv7gcWh!U|fo?msc|?["><value name="pause"><shadow type="timePicker" id="T+2u0]StCEnY(Htbkx1^"><field name="ms">200</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
